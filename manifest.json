@@ -1,0 +1,39 @@
+{
+  "name": "Raka Kresna",
+  "short_name": "Raka Kresna",
+  "scope": "https://rakakresna.blogspot.com/",
+  "start_url": "https://rakakresna.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Indahnya Berbagi",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjX6NIAwKVSjaWXYNR0thxpJyt3Wji7ybh4NF4qmBMgijRRaSCXQGDW9wfeQ5rhTsQqArdBWd-c2ws_EmQVvGoWO9Rn_K84agK7_XMT9A5DBI1RzFKoYs0ZMZqYLUkuAjuWdSDzbtEqSQffZj7SF0nk93HEXQf-jYWL_aK6rMDzRWX3DX1407aBtfeFaQ=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
